@@ -75,10 +75,10 @@ loques de codigo para mostrar
 <!-- GITHUB MARKDOWN -->
 * [x] Task 1
 * [ ] Task 1
-* [x] Task 1
-* [x] Task 1
-* [x] Task 1
-* [x] Task 1
+* [ ] Task 1
+* [ ] Task 1
+* [ ] Task 1
+* [ ] Task 1
 
  
 
